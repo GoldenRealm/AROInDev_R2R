@@ -1,0 +1,9 @@
+﻿2018-08-09 03:12:26.727 [Error] Message: The process cannot access the file 'C:\Users\User\Desktop\Intersect Engine Beta 4.9.1\Client and Editor\sqlite3.dll' because it is being used by another process.
+2018-08-09 03:12:26.923 [Error] Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Intersect.Editor.Classes.Program.Main() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\Program.cs:line 37
+2018-08-09 03:12:26.924 [Error] Time: 8/9/2018 3:12:26 AM
+
+--------------------------------------------------------------------------------
+

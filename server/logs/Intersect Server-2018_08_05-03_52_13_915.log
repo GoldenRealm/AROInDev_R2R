@@ -1,0 +1,23 @@
+﻿2018-08-05 07:52:13.916 [Info] Database backup at 2018-08-05 03-52-13 took  107ms
+2018-08-05 07:52:14.314 [Info] Listening on 0.0.0.0:5400.
+2018-08-05 07:52:22.996 [Info] Connection approved [299f1d16-7820-4111-868c-21f500654b1f].
+2018-08-05 07:52:23.027 [Debug] Connection established to remote [299f1d16-7820-4111-868c-21f500654b1f/127.0.0.1:59250].
+2018-08-05 07:52:23.028 [Info] Connected [299f1d16-7820-4111-868c-21f500654b1f].
+2018-08-05 15:38:59.558 [Info] Database backup at 2018-08-05 11-38-59 took  55ms
+2018-08-05 15:38:59.563 [Debug] StatusChanged: [NetIncomingMessage #45 22 bytes] [Disconnected]
+2018-08-05 15:39:04.607 [Debug] Connectioned terminated to remote [299f1d16-7820-4111-868c-21f500654b1f/127.0.0.1:59250].
+2018-08-05 15:39:04.608 [Info] Disconnected [299f1d16-7820-4111-868c-21f500654b1f].
+2018-08-05 15:39:04.610 [Debug] Client disconnected (vn->[editor])
+2018-08-05 19:20:56.878 [Info] Database backup at 2018-08-05 03-20-56 took  5373ms
+2018-08-05 21:20:52.169 [Info] Database backup at 2018-08-05 05-20-52 took  23ms
+2018-08-05 23:21:00.897 [Info] Database backup at 2018-08-05 07-21-00 took  44ms
+2018-08-06 00:57:52.084 [Info] Connection approved [877af70e-c538-4616-99c4-d5246e2b71ed].
+2018-08-06 00:57:52.102 [Debug] Connection established to remote [877af70e-c538-4616-99c4-d5246e2b71ed/127.0.0.1:59516].
+2018-08-06 00:57:52.102 [Info] Connected [877af70e-c538-4616-99c4-d5246e2b71ed].
+2018-08-06 01:03:24.408 [Debug] StatusChanged: [NetIncomingMessage #19 10 bytes] [Disconnected]
+2018-08-06 01:03:24.408 [Debug] Connectioned terminated to remote [877af70e-c538-4616-99c4-d5246e2b71ed/127.0.0.1:59516].
+2018-08-06 01:03:24.408 [Info] Disconnected [877af70e-c538-4616-99c4-d5246e2b71ed].
+2018-08-06 01:03:24.408 [Debug] Client disconnected (vn->[editor])
+2018-08-06 01:21:36.918 [Info] Database backup at 2018-08-05 09-21-36 took  30ms
+2018-08-06 03:21:37.649 [Info] Database backup at 2018-08-05 11-21-37 took  37ms
+2018-08-06 05:21:38.415 [Info] Database backup at 2018-08-06 01-21-38 took  47ms

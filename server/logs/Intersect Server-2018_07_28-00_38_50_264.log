@@ -1,0 +1,24 @@
+﻿2018-07-28 04:38:50.280 [Info] Database backup at 2018-07-28 12-38-50 took  1959ms
+2018-07-28 04:38:53.624 [Info] Listening on 0.0.0.0:5400.
+2018-07-28 04:52:22.521 [Info] Connection approved [94bf0a19-5940-43f2-9d34-fa3e1781471a].
+2018-07-28 04:52:22.521 [Debug] Connection established to remote [94bf0a19-5940-43f2-9d34-fa3e1781471a/127.0.0.1:55230].
+2018-07-28 04:52:22.521 [Info] Connected [94bf0a19-5940-43f2-9d34-fa3e1781471a].
+2018-07-28 04:52:46.818 [Info] Connection approved [0bd6e604-2938-4bd9-8ce0-3ab23f95a825].
+2018-07-28 04:52:46.870 [Debug] Connection established to remote [0bd6e604-2938-4bd9-8ce0-3ab23f95a825/127.0.0.1:55231].
+2018-07-28 04:52:46.871 [Info] Connected [0bd6e604-2938-4bd9-8ce0-3ab23f95a825].
+2018-07-28 04:53:28.988 [Debug] StatusChanged: [NetIncomingMessage #51 11 bytes] [Disconnected]
+2018-07-28 04:53:28.988 [Debug] Connectioned terminated to remote [0bd6e604-2938-4bd9-8ce0-3ab23f95a825/127.0.0.1:55231].
+2018-07-28 04:53:28.988 [Info] Disconnected [0bd6e604-2938-4bd9-8ce0-3ab23f95a825].
+2018-07-28 04:53:28.989 [Debug] Client disconnected (vn->ad)
+2018-07-28 13:37:17.530 [Debug] StatusChanged: [NetIncomingMessage #52 22 bytes] [Disconnected]
+2018-07-28 13:37:17.530 [Debug] Connectioned terminated to remote [94bf0a19-5940-43f2-9d34-fa3e1781471a/127.0.0.1:55230].
+2018-07-28 13:37:17.530 [Info] Disconnected [94bf0a19-5940-43f2-9d34-fa3e1781471a].
+2018-07-28 13:37:17.530 [Debug] Client disconnected ([menu])
+2018-07-28 13:37:22.935 [Info] Database backup at 2018-07-28 09-37-22 took  254ms
+2018-07-28 13:37:23.715 [Info] Connection approved [fdb9dc78-1ce6-4c75-8760-6332ae6a645f].
+2018-07-28 13:37:23.729 [Debug] Connection established to remote [fdb9dc78-1ce6-4c75-8760-6332ae6a645f/127.0.0.1:55232].
+2018-07-28 13:37:23.729 [Info] Connected [fdb9dc78-1ce6-4c75-8760-6332ae6a645f].
+2018-07-28 13:58:14.358 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
+2018-07-28 13:58:14.358 [Debug] Connectioned terminated to remote [fdb9dc78-1ce6-4c75-8760-6332ae6a645f/127.0.0.1:55232].
+2018-07-28 13:58:14.358 [Info] Disconnected [fdb9dc78-1ce6-4c75-8760-6332ae6a645f].
+2018-07-28 13:58:14.358 [Debug] Client disconnected ([menu])

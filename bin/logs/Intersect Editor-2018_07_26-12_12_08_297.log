@@ -1,0 +1,8 @@
+﻿2018-07-26 16:12:08.983 [Info] Connecting to localhost:5400...
+2018-07-26 16:12:09.861 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-07-26 16:12:09.877 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/127.0.0.1:5400].
+2018-07-26 16:12:09.877 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-07-26 17:26:09.618 [Debug] StatusChanged: [NetIncomingMessage #68 10 bytes] [Disconnecting]
+2018-07-26 17:26:09.633 [Debug] StatusChanged: [NetIncomingMessage #69 10 bytes] [Disconnected]
+2018-07-26 17:26:09.633 [Debug] Connectioned terminated to remote [00000000-0000-0000-0000-000000000000/127.0.0.1:5400].
+2018-07-26 17:26:09.633 [Info] Disconnected [00000000-0000-0000-0000-000000000000].

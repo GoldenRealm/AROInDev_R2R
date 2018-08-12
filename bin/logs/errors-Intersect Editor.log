@@ -1,0 +1,97 @@
+﻿2018-07-18 23:28:39.384 [Error] Message: The process cannot access the file 'C:\Users\User\Desktop\Intersect Engine Beta 4.9.1\Client and Editor\sqlite3.dll' because it is being used by another process.
+2018-07-18 23:28:39.384 [Error] Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Intersect.Editor.Classes.Program.Main() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\Program.cs:line 37
+2018-07-18 23:28:39.384 [Error] Time: 7/18/2018 11:28:39 PM
+
+--------------------------------------------------------------------------------
+
+2018-07-21 23:31:13.505 [Error] Message: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+2018-07-21 23:31:13.526 [Error] Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method)
+   at Intersect.Editor.Classes.EditorLoop.UpdateMaps() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\EditorLoop.cs:line 141
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2018-07-21 23:31:13.526 [Error] Time: 7/21/2018 11:31:13 PM
+
+--------------------------------------------------------------------------------
+
+2018-07-22 15:38:04.306 [Error] Message: The process cannot access the file 'C:\Users\User\Desktop\Intersect Engine Beta 4.9.1\Client and Editor\sqlite3.dll' because it is being used by another process.
+2018-07-22 15:38:04.306 [Error] Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Intersect.Editor.Classes.Program.Main() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\Program.cs:line 37
+2018-07-22 15:38:04.306 [Error] Time: 7/22/2018 3:38:04 PM
+
+--------------------------------------------------------------------------------
+
+2018-07-22 23:29:09.224 [Error] Message: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+2018-07-22 23:29:09.242 [Error] Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.BeginInvoke(Delegate method)
+   at Intersect.Editor.Classes.EditorLoop.UpdateMaps() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\EditorLoop.cs:line 141
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2018-07-22 23:29:09.243 [Error] Time: 7/22/2018 11:29:09 PM
+
+--------------------------------------------------------------------------------
+
+2018-07-25 22:07:05.940 [Error] Message: The process cannot access the file 'C:\Users\User\Desktop\Intersect Engine Beta 4.9.1\Client and Editor\sqlite3.dll' because it is being used by another process.
+2018-07-25 22:07:05.974 [Error] Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Intersect.Editor.Classes.Program.Main() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\Program.cs:line 37
+2018-07-25 22:07:05.974 [Error] Time: 7/25/2018 10:07:05 PM
+
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+2018-07-28 21:53:40.790 [Error] Message: resources/items/8.png
+2018-07-28 21:53:40.833 [Error] Stack Trace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at Intersect.Editor.Forms.FrmItem.cmbPic_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmItem.cs:line 398
+   at System.Windows.Forms.ComboBox.OnSelectedIndexChanged(EventArgs e)
+   at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at Intersect.Editor.Forms.FrmItem.UpdateEditor() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmItem.cs:line 243
+   at Intersect.Editor.Forms.FrmItem.lstItems_Click(Object sender, EventArgs e) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmItem.cs:line 81
+   at System.Windows.Forms.ListBox.OnSelectedIndexChanged(EventArgs e)
+   at System.Windows.Forms.ListBox.WmReflectCommand(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-07-28 21:53:40.833 [Error] Time: 7/28/2018 9:53:40 PM
+
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+2018-08-09 03:12:26.924 [Error] Message: The process cannot access the file 'C:\Users\User\Desktop\Intersect Engine Beta 4.9.1\Client and Editor\sqlite3.dll' because it is being used by another process.
+2018-08-09 03:12:26.947 [Error] Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Intersect.Editor.Classes.Program.Main() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\Program.cs:line 37
+2018-08-09 03:12:26.947 [Error] Time: 8/9/2018 3:12:26 AM
+
+--------------------------------------------------------------------------------
+
+2018-08-09 03:12:33.236 [Error] Message: The process cannot access the file 'C:\Users\User\Desktop\Intersect Engine Beta 4.9.1\Client and Editor\sqlite3.dll' because it is being used by another process.
+2018-08-09 03:12:33.236 [Error] Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Intersect.Editor.Classes.Program.Main() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Classes\Core\Program.cs:line 37
+2018-08-09 03:12:33.236 [Error] Time: 8/9/2018 3:12:33 AM
+
+--------------------------------------------------------------------------------
+

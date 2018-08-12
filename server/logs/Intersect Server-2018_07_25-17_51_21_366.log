@@ -1,0 +1,159 @@
+﻿2018-07-25 21:51:21.366 [Info] Database backup at 2018-07-25 05-51-21 took  128ms
+2018-07-25 21:51:21.776 [Info] Listening on 0.0.0.0:5400.
+2018-07-25 21:51:32.070 [Info] Connection approved [2808b4f2-fd37-49c2-b7e5-f693877b62a5].
+2018-07-25 21:51:32.110 [Debug] Connection established to remote [2808b4f2-fd37-49c2-b7e5-f693877b62a5/127.0.0.1:55854].
+2018-07-25 21:51:32.110 [Info] Connected [2808b4f2-fd37-49c2-b7e5-f693877b62a5].
+2018-07-25 21:58:21.553 [Info] Connection approved [265e7504-66b7-43c1-831d-80cc3e396596].
+2018-07-25 21:58:21.577 [Debug] Connection established to remote [265e7504-66b7-43c1-831d-80cc3e396596/127.0.0.1:55855].
+2018-07-25 21:58:21.618 [Info] Connected [265e7504-66b7-43c1-831d-80cc3e396596].
+2018-07-25 22:06:57.159 [Debug] StatusChanged: [NetIncomingMessage #64 11 bytes] [Disconnected]
+2018-07-25 22:06:57.159 [Debug] Connectioned terminated to remote [265e7504-66b7-43c1-831d-80cc3e396596/127.0.0.1:55855].
+2018-07-25 22:06:57.160 [Info] Disconnected [265e7504-66b7-43c1-831d-80cc3e396596].
+2018-07-25 22:06:57.161 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:07:15.395 [Info] Connection approved [f266d921-937d-47f0-882e-0e5f9fda7cb4].
+2018-07-25 22:07:15.418 [Debug] Connection established to remote [f266d921-937d-47f0-882e-0e5f9fda7cb4/127.0.0.1:55856].
+2018-07-25 22:07:15.418 [Info] Connected [f266d921-937d-47f0-882e-0e5f9fda7cb4].
+2018-07-25 22:08:17.799 [Debug] StatusChanged: [NetIncomingMessage #15 11 bytes] [Disconnected]
+2018-07-25 22:08:17.799 [Debug] Connectioned terminated to remote [f266d921-937d-47f0-882e-0e5f9fda7cb4/127.0.0.1:55856].
+2018-07-25 22:08:17.799 [Info] Disconnected [f266d921-937d-47f0-882e-0e5f9fda7cb4].
+2018-07-25 22:08:17.799 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:08:25.294 [Info] Connection approved [c2c47ff0-4598-41f1-ab00-a6795b584ed2].
+2018-07-25 22:08:25.321 [Debug] Connection established to remote [c2c47ff0-4598-41f1-ab00-a6795b584ed2/127.0.0.1:55857].
+2018-07-25 22:08:25.321 [Info] Connected [c2c47ff0-4598-41f1-ab00-a6795b584ed2].
+2018-07-25 22:13:37.299 [Debug] StatusChanged: [NetIncomingMessage #6 11 bytes] [Disconnected]
+2018-07-25 22:13:37.299 [Debug] Connectioned terminated to remote [c2c47ff0-4598-41f1-ab00-a6795b584ed2/127.0.0.1:55857].
+2018-07-25 22:13:37.299 [Info] Disconnected [c2c47ff0-4598-41f1-ab00-a6795b584ed2].
+2018-07-25 22:13:37.299 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:13:50.624 [Info] Connection approved [535ea3ee-396b-403c-b61e-e8d348604fda].
+2018-07-25 22:13:50.638 [Debug] Connection established to remote [535ea3ee-396b-403c-b61e-e8d348604fda/127.0.0.1:51649].
+2018-07-25 22:13:50.638 [Info] Connected [535ea3ee-396b-403c-b61e-e8d348604fda].
+2018-07-25 22:14:16.095 [Debug] StatusChanged: [NetIncomingMessage #11 11 bytes] [Disconnected]
+2018-07-25 22:14:16.095 [Debug] Connectioned terminated to remote [535ea3ee-396b-403c-b61e-e8d348604fda/127.0.0.1:51649].
+2018-07-25 22:14:16.095 [Info] Disconnected [535ea3ee-396b-403c-b61e-e8d348604fda].
+2018-07-25 22:14:16.095 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:14:23.979 [Info] Connection approved [db9a16fd-58cf-4d1c-bf02-380835d6046e].
+2018-07-25 22:14:24.004 [Debug] Connection established to remote [db9a16fd-58cf-4d1c-bf02-380835d6046e/127.0.0.1:52293].
+2018-07-25 22:14:24.004 [Info] Connected [db9a16fd-58cf-4d1c-bf02-380835d6046e].
+2018-07-25 22:14:59.970 [Debug] StatusChanged: [NetIncomingMessage #7 11 bytes] [Disconnected]
+2018-07-25 22:14:59.970 [Debug] Connectioned terminated to remote [db9a16fd-58cf-4d1c-bf02-380835d6046e/127.0.0.1:52293].
+2018-07-25 22:14:59.970 [Info] Disconnected [db9a16fd-58cf-4d1c-bf02-380835d6046e].
+2018-07-25 22:14:59.970 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:15:14.363 [Info] Connection approved [c928844d-d45c-4cdd-81d3-d22816757653].
+2018-07-25 22:15:14.390 [Debug] Connection established to remote [c928844d-d45c-4cdd-81d3-d22816757653/127.0.0.1:59449].
+2018-07-25 22:15:14.390 [Info] Connected [c928844d-d45c-4cdd-81d3-d22816757653].
+2018-07-25 22:15:53.346 [Debug] StatusChanged: [NetIncomingMessage #8 11 bytes] [Disconnected]
+2018-07-25 22:15:53.346 [Debug] Connectioned terminated to remote [c928844d-d45c-4cdd-81d3-d22816757653/127.0.0.1:59449].
+2018-07-25 22:15:53.346 [Info] Disconnected [c928844d-d45c-4cdd-81d3-d22816757653].
+2018-07-25 22:15:53.346 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:16:32.162 [Info] Connection approved [6e876fe5-32bf-423d-809d-9a3f72ac37f2].
+2018-07-25 22:16:32.183 [Debug] Connection established to remote [6e876fe5-32bf-423d-809d-9a3f72ac37f2/127.0.0.1:59451].
+2018-07-25 22:16:32.183 [Info] Connected [6e876fe5-32bf-423d-809d-9a3f72ac37f2].
+2018-07-25 22:19:13.439 [Debug] StatusChanged: [NetIncomingMessage #21 11 bytes] [Disconnected]
+2018-07-25 22:19:13.439 [Debug] Connectioned terminated to remote [6e876fe5-32bf-423d-809d-9a3f72ac37f2/127.0.0.1:59451].
+2018-07-25 22:19:13.439 [Info] Disconnected [6e876fe5-32bf-423d-809d-9a3f72ac37f2].
+2018-07-25 22:19:13.439 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:19:21.255 [Info] Connection approved [3282c4a6-70dc-4a60-8c4b-e1564252f3e0].
+2018-07-25 22:19:21.280 [Debug] Connection established to remote [3282c4a6-70dc-4a60-8c4b-e1564252f3e0/127.0.0.1:52399].
+2018-07-25 22:19:21.281 [Info] Connected [3282c4a6-70dc-4a60-8c4b-e1564252f3e0].
+2018-07-25 22:22:19.752 [Debug] StatusChanged: [NetIncomingMessage #5 11 bytes] [Disconnected]
+2018-07-25 22:22:19.752 [Debug] Connectioned terminated to remote [3282c4a6-70dc-4a60-8c4b-e1564252f3e0/127.0.0.1:52399].
+2018-07-25 22:22:19.752 [Info] Disconnected [3282c4a6-70dc-4a60-8c4b-e1564252f3e0].
+2018-07-25 22:22:19.752 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:22:25.858 [Info] Connection approved [10f94959-9fb4-4d43-a901-72eca4803447].
+2018-07-25 22:22:25.875 [Debug] Connection established to remote [10f94959-9fb4-4d43-a901-72eca4803447/127.0.0.1:50931].
+2018-07-25 22:22:25.875 [Info] Connected [10f94959-9fb4-4d43-a901-72eca4803447].
+2018-07-25 22:23:04.049 [Debug] StatusChanged: [NetIncomingMessage #6 11 bytes] [Disconnected]
+2018-07-25 22:23:04.049 [Debug] Connectioned terminated to remote [10f94959-9fb4-4d43-a901-72eca4803447/127.0.0.1:50931].
+2018-07-25 22:23:04.049 [Info] Disconnected [10f94959-9fb4-4d43-a901-72eca4803447].
+2018-07-25 22:23:04.049 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:23:09.666 [Info] Connection approved [90827db7-f163-4f47-8289-3d92c01876a4].
+2018-07-25 22:23:09.685 [Debug] Connection established to remote [90827db7-f163-4f47-8289-3d92c01876a4/127.0.0.1:50933].
+2018-07-25 22:23:09.685 [Info] Connected [90827db7-f163-4f47-8289-3d92c01876a4].
+2018-07-25 22:25:22.064 [Debug] StatusChanged: [NetIncomingMessage #10 11 bytes] [Disconnected]
+2018-07-25 22:25:22.064 [Debug] Connectioned terminated to remote [90827db7-f163-4f47-8289-3d92c01876a4/127.0.0.1:50933].
+2018-07-25 22:25:22.064 [Info] Disconnected [90827db7-f163-4f47-8289-3d92c01876a4].
+2018-07-25 22:25:22.064 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:25:28.916 [Info] Connection approved [d90439ac-080d-474c-a3b8-33da99b0e40e].
+2018-07-25 22:25:28.939 [Debug] Connection established to remote [d90439ac-080d-474c-a3b8-33da99b0e40e/127.0.0.1:51459].
+2018-07-25 22:25:28.939 [Info] Connected [d90439ac-080d-474c-a3b8-33da99b0e40e].
+2018-07-25 22:27:03.798 [Debug] StatusChanged: [NetIncomingMessage #6 11 bytes] [Disconnected]
+2018-07-25 22:27:03.798 [Debug] Connectioned terminated to remote [d90439ac-080d-474c-a3b8-33da99b0e40e/127.0.0.1:51459].
+2018-07-25 22:27:03.798 [Info] Disconnected [d90439ac-080d-474c-a3b8-33da99b0e40e].
+2018-07-25 22:27:03.798 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:27:09.806 [Info] Connection approved [5e64b829-f30e-4dcf-a5f6-c7aab0aad17a].
+2018-07-25 22:27:09.825 [Debug] Connection established to remote [5e64b829-f30e-4dcf-a5f6-c7aab0aad17a/127.0.0.1:51462].
+2018-07-25 22:27:09.825 [Info] Connected [5e64b829-f30e-4dcf-a5f6-c7aab0aad17a].
+2018-07-25 22:27:45.894 [Debug] StatusChanged: [NetIncomingMessage #2 11 bytes] [Disconnected]
+2018-07-25 22:27:45.894 [Debug] Connectioned terminated to remote [5e64b829-f30e-4dcf-a5f6-c7aab0aad17a/127.0.0.1:51462].
+2018-07-25 22:27:45.894 [Info] Disconnected [5e64b829-f30e-4dcf-a5f6-c7aab0aad17a].
+2018-07-25 22:27:45.894 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:27:51.140 [Info] Connection approved [fed8501a-7e21-441f-bd0b-2fcb221b5859].
+2018-07-25 22:27:51.158 [Debug] Connection established to remote [fed8501a-7e21-441f-bd0b-2fcb221b5859/127.0.0.1:54355].
+2018-07-25 22:27:51.158 [Info] Connected [fed8501a-7e21-441f-bd0b-2fcb221b5859].
+2018-07-25 22:29:29.049 [Debug] StatusChanged: [NetIncomingMessage #20 11 bytes] [Disconnected]
+2018-07-25 22:29:29.049 [Debug] Connectioned terminated to remote [fed8501a-7e21-441f-bd0b-2fcb221b5859/127.0.0.1:54355].
+2018-07-25 22:29:29.049 [Info] Disconnected [fed8501a-7e21-441f-bd0b-2fcb221b5859].
+2018-07-25 22:29:29.049 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:29:34.683 [Info] Connection approved [b994f8db-b947-4ec0-a2db-beffcd6369e0].
+2018-07-25 22:29:34.701 [Debug] Connection established to remote [b994f8db-b947-4ec0-a2db-beffcd6369e0/127.0.0.1:55552].
+2018-07-25 22:29:34.702 [Info] Connected [b994f8db-b947-4ec0-a2db-beffcd6369e0].
+2018-07-25 22:30:39.737 [Debug] StatusChanged: [NetIncomingMessage #3 11 bytes] [Disconnected]
+2018-07-25 22:30:39.737 [Debug] Connectioned terminated to remote [b994f8db-b947-4ec0-a2db-beffcd6369e0/127.0.0.1:55552].
+2018-07-25 22:30:39.737 [Info] Disconnected [b994f8db-b947-4ec0-a2db-beffcd6369e0].
+2018-07-25 22:30:39.737 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:30:45.113 [Info] Connection approved [f1d68b9f-e5fa-4964-b1cf-18ccf6485223].
+2018-07-25 22:30:45.145 [Debug] Connection established to remote [f1d68b9f-e5fa-4964-b1cf-18ccf6485223/127.0.0.1:55554].
+2018-07-25 22:30:45.146 [Info] Connected [f1d68b9f-e5fa-4964-b1cf-18ccf6485223].
+2018-07-25 22:32:07.564 [Debug] StatusChanged: [NetIncomingMessage #17 11 bytes] [Disconnected]
+2018-07-25 22:32:07.564 [Debug] Connectioned terminated to remote [f1d68b9f-e5fa-4964-b1cf-18ccf6485223/127.0.0.1:55554].
+2018-07-25 22:32:07.564 [Info] Disconnected [f1d68b9f-e5fa-4964-b1cf-18ccf6485223].
+2018-07-25 22:32:07.564 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:32:12.817 [Info] Connection approved [884886ba-2673-4651-a669-c94cca5e7188].
+2018-07-25 22:32:12.838 [Debug] Connection established to remote [884886ba-2673-4651-a669-c94cca5e7188/127.0.0.1:65500].
+2018-07-25 22:32:12.838 [Info] Connected [884886ba-2673-4651-a669-c94cca5e7188].
+2018-07-25 22:32:44.894 [Debug] StatusChanged: [NetIncomingMessage #14 11 bytes] [Disconnected]
+2018-07-25 22:32:44.894 [Debug] Connectioned terminated to remote [884886ba-2673-4651-a669-c94cca5e7188/127.0.0.1:65500].
+2018-07-25 22:32:44.894 [Info] Disconnected [884886ba-2673-4651-a669-c94cca5e7188].
+2018-07-25 22:32:44.894 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:33:04.317 [Info] Connection approved [79893277-1494-40af-8b2a-13d700e2d31e].
+2018-07-25 22:33:04.339 [Debug] Connection established to remote [79893277-1494-40af-8b2a-13d700e2d31e/127.0.0.1:65502].
+2018-07-25 22:33:04.339 [Info] Connected [79893277-1494-40af-8b2a-13d700e2d31e].
+2018-07-25 22:34:29.473 [Info] Connection approved [a04fa3b4-726d-45ca-9d00-51f3f54c28ce].
+2018-07-25 22:34:29.496 [Debug] Connection established to remote [a04fa3b4-726d-45ca-9d00-51f3f54c28ce/127.0.0.1:49954].
+2018-07-25 22:34:29.496 [Info] Connected [a04fa3b4-726d-45ca-9d00-51f3f54c28ce].
+2018-07-25 22:34:34.711 [Debug] StatusChanged: [NetIncomingMessage #0 18 bytes] [Disconnecting]
+2018-07-25 22:34:34.816 [Debug] StatusChanged: [NetIncomingMessage #0 18 bytes] [Disconnected]
+2018-07-25 22:34:34.816 [Debug] Connectioned terminated to remote [79893277-1494-40af-8b2a-13d700e2d31e/127.0.0.1:65502].
+2018-07-25 22:34:34.816 [Info] Disconnected [79893277-1494-40af-8b2a-13d700e2d31e].
+2018-07-25 22:34:34.816 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:34:57.690 [Debug] StatusChanged: [NetIncomingMessage #6 11 bytes] [Disconnected]
+2018-07-25 22:34:57.690 [Debug] Connectioned terminated to remote [a04fa3b4-726d-45ca-9d00-51f3f54c28ce/127.0.0.1:49954].
+2018-07-25 22:34:57.690 [Info] Disconnected [a04fa3b4-726d-45ca-9d00-51f3f54c28ce].
+2018-07-25 22:34:57.690 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:35:03.083 [Info] Connection approved [3bc076d3-57ff-4094-b4c0-410f4b36a0fc].
+2018-07-25 22:35:03.105 [Debug] Connection established to remote [3bc076d3-57ff-4094-b4c0-410f4b36a0fc/127.0.0.1:49957].
+2018-07-25 22:35:03.105 [Info] Connected [3bc076d3-57ff-4094-b4c0-410f4b36a0fc].
+2018-07-25 22:37:11.033 [Debug] StatusChanged: [NetIncomingMessage #2 11 bytes] [Disconnected]
+2018-07-25 22:37:11.033 [Debug] Connectioned terminated to remote [3bc076d3-57ff-4094-b4c0-410f4b36a0fc/127.0.0.1:49957].
+2018-07-25 22:37:11.033 [Info] Disconnected [3bc076d3-57ff-4094-b4c0-410f4b36a0fc].
+2018-07-25 22:37:11.033 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:37:18.723 [Info] Connection approved [a97ded6b-2ce9-4d4d-a115-c3581951d1b8].
+2018-07-25 22:37:18.751 [Debug] Connection established to remote [a97ded6b-2ce9-4d4d-a115-c3581951d1b8/127.0.0.1:49961].
+2018-07-25 22:37:18.751 [Info] Connected [a97ded6b-2ce9-4d4d-a115-c3581951d1b8].
+2018-07-25 22:38:34.439 [Debug] StatusChanged: [NetIncomingMessage #4 11 bytes] [Disconnected]
+2018-07-25 22:38:34.439 [Debug] Connectioned terminated to remote [a97ded6b-2ce9-4d4d-a115-c3581951d1b8/127.0.0.1:49961].
+2018-07-25 22:38:34.439 [Info] Disconnected [a97ded6b-2ce9-4d4d-a115-c3581951d1b8].
+2018-07-25 22:38:34.439 [Debug] Client disconnected (vn->Red)
+2018-07-25 22:38:39.182 [Info] Connection approved [c5f2c8f6-4b11-4920-b1b8-774e99f21087].
+2018-07-25 22:38:39.204 [Debug] Connection established to remote [c5f2c8f6-4b11-4920-b1b8-774e99f21087/127.0.0.1:49962].
+2018-07-25 22:38:39.204 [Info] Connected [c5f2c8f6-4b11-4920-b1b8-774e99f21087].
+2018-07-25 22:39:54.440 [Debug] StatusChanged: [NetIncomingMessage #22 10 bytes] [Disconnected]
+2018-07-25 22:39:54.440 [Debug] Connectioned terminated to remote [2808b4f2-fd37-49c2-b7e5-f693877b62a5/127.0.0.1:55854].
+2018-07-25 22:39:54.440 [Info] Disconnected [2808b4f2-fd37-49c2-b7e5-f693877b62a5].
+2018-07-25 22:39:54.440 [Debug] Client disconnected (vn->[editor])
+2018-07-25 23:51:27.907 [Info] Database backup at 2018-07-25 07-51-27 took  36ms
+2018-07-26 01:51:28.660 [Info] Database backup at 2018-07-25 09-51-28 took  18ms
+2018-07-26 02:27:15.424 [Debug] StatusChanged: [NetIncomingMessage #0 11 bytes] [Disconnected]
+2018-07-26 02:27:15.424 [Debug] Connectioned terminated to remote [c5f2c8f6-4b11-4920-b1b8-774e99f21087/127.0.0.1:49962].
+2018-07-26 02:27:15.425 [Info] Disconnected [c5f2c8f6-4b11-4920-b1b8-774e99f21087].
+2018-07-26 02:27:15.425 [Debug] Client disconnected (vn->Red)

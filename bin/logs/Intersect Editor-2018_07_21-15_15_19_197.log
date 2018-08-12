@@ -1,0 +1,4 @@
+﻿2018-07-21 19:15:19.931 [Info] Connecting to localhost:5400...
+2018-07-21 19:15:25.908 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnecting]
+2018-07-21 19:15:25.912 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
+2018-07-21 19:15:25.913 [Debug] Unknown client disconnected (00-00-00-00-00-00-00-00).

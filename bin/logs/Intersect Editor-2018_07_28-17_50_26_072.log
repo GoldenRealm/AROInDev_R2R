@@ -1,0 +1,22 @@
+﻿2018-07-28 21:50:26.762 [Info] Connecting to localhost:5400...
+2018-07-28 21:50:27.461 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-07-28 21:50:27.475 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/127.0.0.1:5400].
+2018-07-28 21:50:27.475 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-07-28 21:53:40.590 [Error] Message: resources/items/8.png
+2018-07-28 21:53:40.790 [Error] Stack Trace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at Intersect.Editor.Forms.FrmItem.cmbPic_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmItem.cs:line 398
+   at System.Windows.Forms.ComboBox.OnSelectedIndexChanged(EventArgs e)
+   at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at Intersect.Editor.Forms.FrmItem.UpdateEditor() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmItem.cs:line 243
+   at Intersect.Editor.Forms.FrmItem.lstItems_Click(Object sender, EventArgs e) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmItem.cs:line 81
+   at System.Windows.Forms.ListBox.OnSelectedIndexChanged(EventArgs e)
+   at System.Windows.Forms.ListBox.WmReflectCommand(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-07-28 21:53:40.790 [Error] Time: 7/28/2018 9:53:40 PM
+
+--------------------------------------------------------------------------------
+
