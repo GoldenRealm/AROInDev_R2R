@@ -1,9 +1,0 @@
-﻿2018-08-17 17:54:04.788 [Info] Database backup at 2018-08-17 01-54-04 took  556ms
-2018-08-17 17:54:06.562 [Info] Listening on 0.0.0.0:5400.
-2018-08-17 17:54:11.947 [Info] Connection approved [e3f32aed-8a17-4e4c-851c-28a918c045e2].
-2018-08-17 17:54:11.973 [Debug] Connection established to remote [e3f32aed-8a17-4e4c-851c-28a918c045e2/127.0.0.1:51120].
-2018-08-17 17:54:11.974 [Info] Connected [e3f32aed-8a17-4e4c-851c-28a918c045e2].
-2018-08-17 17:57:32.894 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
-2018-08-17 17:57:32.898 [Debug] Connectioned terminated to remote [e3f32aed-8a17-4e4c-851c-28a918c045e2/127.0.0.1:51120].
-2018-08-17 17:57:32.899 [Info] Disconnected [e3f32aed-8a17-4e4c-851c-28a918c045e2].
-2018-08-17 17:57:32.901 [Debug] Client disconnected (vn->[editor])

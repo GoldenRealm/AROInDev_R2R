@@ -1,5 +1,0 @@
-﻿2018-10-07 20:11:01.795 [Info] Database backup at 2018-10-07 04-11-01 took  315ms
-2018-10-07 20:11:04.067 [Info] Listening on 0.0.0.0:5400.
-2018-10-07 20:11:21.559 [Info] Connection approved [335c7199-5255-4b84-ada3-a81dba94463b].
-2018-10-07 20:11:21.569 [Debug] Connection established to remote [335c7199-5255-4b84-ada3-a81dba94463b/127.0.0.1:61921].
-2018-10-07 20:11:21.569 [Info] Connected [335c7199-5255-4b84-ada3-a81dba94463b].

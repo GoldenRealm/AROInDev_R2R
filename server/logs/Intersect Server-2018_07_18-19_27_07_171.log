@@ -1,8 +1,0 @@
-﻿2018-07-18 23:27:07.272 [Info] Listening on 0.0.0.0:5400.
-2018-07-18 23:27:51.623 [Info] Connection approved [e0c01941-ac02-409e-afb7-ebe5ae7f6180].
-2018-07-18 23:27:51.647 [Debug] Connection established to remote [e0c01941-ac02-409e-afb7-ebe5ae7f6180/127.0.0.1:50617].
-2018-07-18 23:27:51.647 [Info] Connected [e0c01941-ac02-409e-afb7-ebe5ae7f6180].
-2018-07-18 23:34:58.024 [Debug] StatusChanged: [NetIncomingMessage #0 22 bytes] [Disconnected]
-2018-07-18 23:34:58.024 [Debug] Connectioned terminated to remote [e0c01941-ac02-409e-afb7-ebe5ae7f6180/127.0.0.1:50617].
-2018-07-18 23:34:58.024 [Info] Disconnected [e0c01941-ac02-409e-afb7-ebe5ae7f6180].
-2018-07-18 23:34:58.024 [Debug] Client disconnected ([menu])

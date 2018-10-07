@@ -1,9 +1,0 @@
-﻿2018-08-11 20:46:45.348 [Info] Database backup at 2018-08-11 04-46-45 took  544ms
-2018-08-11 20:46:46.213 [Info] Listening on 0.0.0.0:5400.
-2018-08-11 20:46:51.738 [Info] Connection approved [f05f03ae-847e-4a3f-b864-6c00bc1af400].
-2018-08-11 20:46:51.761 [Debug] Connection established to remote [f05f03ae-847e-4a3f-b864-6c00bc1af400/127.0.0.1:55207].
-2018-08-11 20:46:51.761 [Info] Connected [f05f03ae-847e-4a3f-b864-6c00bc1af400].
-2018-08-11 21:55:19.707 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
-2018-08-11 21:55:19.712 [Debug] Connectioned terminated to remote [f05f03ae-847e-4a3f-b864-6c00bc1af400/127.0.0.1:55207].
-2018-08-11 21:55:19.713 [Info] Disconnected [f05f03ae-847e-4a3f-b864-6c00bc1af400].
-2018-08-11 21:55:19.726 [Debug] Client disconnected ([menu])
