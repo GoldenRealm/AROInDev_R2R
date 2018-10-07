@@ -75,22 +75,22 @@
     <Slot3>Fishing Rod</Slot3>
   </ToolTypes>
   <Misc>
-    <ItemDespawnTime>15000</ItemDespawnTime>
-    <ItemSpawnTime>15000</ItemSpawnTime>
+    <ItemDespawnTime>500000</ItemDespawnTime>
+    <ItemSpawnTime>500000</ItemSpawnTime>
     <AnimatedSprites></AnimatedSprites>
   </Misc>
   <Combat>
     <RegenTime>3000</RegenTime>
-    <MinAttackRate>1000</MinAttackRate>
-    <MaxAttackRate>200</MaxAttackRate>
-    <BlockingSlow>30</BlockingSlow>
-    <CritChance>20</CritChance>
-    <CritMultiplier>150</CritMultiplier>
+    <MinAttackRate>1250</MinAttackRate>
+    <MaxAttackRate>350</MaxAttackRate>
+    <BlockingSlow>50</BlockingSlow>
+    <CritChance>7</CritChance>
+    <CritMultiplier>175</CritMultiplier>
     <MaxDashSpeed>200</MaxDashSpeed>
   </Combat>
   <Map>
     <!--MapBorder Override. 0 for seamless with scrolling that stops on world edges. 1 for non-seamless, and 2 for seamless where the camera knows no boundaries. (Black borders where the world ends)-->
-    <BorderStyle>0</BorderStyle>
+    <BorderStyle>2</BorderStyle>
     <!--DO NOT TOUCH! These values will resize the maps in the engine and will CORRUPT existing maps. In MOST cases this value should not be changed. It would be wise to consult us before doing so!-->
     <MapWidth>32</MapWidth>
     <MapHeight>26</MapHeight>

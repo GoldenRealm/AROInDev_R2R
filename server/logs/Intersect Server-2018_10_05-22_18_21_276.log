@@ -1,0 +1,24 @@
+﻿2018-10-06 02:18:21.286 [Info] Database backup at 2018-10-05 10-18-21 took  1233ms
+2018-10-06 02:18:23.696 [Info] Listening on 0.0.0.0:5400.
+2018-10-06 02:18:44.392 [Info] Connection approved [fb80d027-fb9b-4eec-83c2-7bd227f0deb8].
+2018-10-06 02:18:44.429 [Debug] Connection established to remote [fb80d027-fb9b-4eec-83c2-7bd227f0deb8/127.0.0.1:65436].
+2018-10-06 02:18:44.429 [Info] Connected [fb80d027-fb9b-4eec-83c2-7bd227f0deb8].
+2018-10-06 02:27:34.872 [Info] Connection approved [b97e267b-fd6e-4f34-95c6-f57b2a9bdf0b].
+2018-10-06 02:27:34.885 [Debug] Connection established to remote [b97e267b-fd6e-4f34-95c6-f57b2a9bdf0b/127.0.0.1:52298].
+2018-10-06 02:27:34.886 [Info] Connected [b97e267b-fd6e-4f34-95c6-f57b2a9bdf0b].
+2018-10-06 04:18:26.044 [Info] Database backup at 2018-10-06 12-18-26 took  79ms
+2018-10-06 06:18:27.687 [Info] Database backup at 2018-10-06 02-18-27 took  68ms
+2018-10-06 08:18:28.882 [Info] Database backup at 2018-10-06 04-18-28 took  60ms
+2018-10-06 10:18:30.274 [Info] Database backup at 2018-10-06 06-18-30 took  58ms
+2018-10-06 12:18:31.613 [Info] Database backup at 2018-10-06 08-18-31 took  58ms
+2018-10-06 14:18:32.457 [Info] Database backup at 2018-10-06 10-18-32 took  83ms
+2018-10-06 16:18:33.315 [Info] Database backup at 2018-10-06 12-18-33 took  59ms
+2018-10-06 18:18:34.309 [Info] Database backup at 2018-10-06 02-18-34 took  61ms
+2018-10-06 19:23:16.970 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
+2018-10-06 19:23:16.970 [Debug] Connectioned terminated to remote [b97e267b-fd6e-4f34-95c6-f57b2a9bdf0b/127.0.0.1:52298].
+2018-10-06 19:23:16.971 [Info] Disconnected [b97e267b-fd6e-4f34-95c6-f57b2a9bdf0b].
+2018-10-06 19:23:16.973 [Debug] Client disconnected (vn->[editor])
+2018-10-06 19:23:18.218 [Debug] StatusChanged: [NetIncomingMessage #0 11 bytes] [Disconnected]
+2018-10-06 19:23:18.218 [Debug] Connectioned terminated to remote [fb80d027-fb9b-4eec-83c2-7bd227f0deb8/127.0.0.1:65436].
+2018-10-06 19:23:18.218 [Info] Disconnected [fb80d027-fb9b-4eec-83c2-7bd227f0deb8].
+2018-10-06 19:23:18.218 [Debug] Client disconnected (bobish->Regan)
