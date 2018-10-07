@@ -38,7 +38,10 @@ Tons of unique abilities to play around with, all with a focus of PvP balance.
 Lots of unique areas to explore with many bits hidden around.
 
 A lot of gear and items to collect, show them off on your character as most items will show up visually on your character.
+
 Community focused chat with social interaction options, lots of cosmetic items and abilities.
+
 Add friends, join groups to take on hard challenges and trade with others whenever you want!
+
 This is a hardcore game, don't forget to eat and drink and be mindful of the tempurature... you could die if not.
 
